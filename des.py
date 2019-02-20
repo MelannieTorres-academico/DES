@@ -1,5 +1,5 @@
 #references: https://stackoverflow.com/questions/19705638/how-to-concatenate-bits-in-python
-
+ 
 import fileinput
 
 # Rearanges the original_bits depending on the positions given in the new_positions list
